@@ -1,0 +1,4 @@
+psutil==5.9.8
+matplotlib==3.9.0
+pandas==2.2.2
+requests==2.32.3
